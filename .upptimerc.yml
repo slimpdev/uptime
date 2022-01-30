@@ -23,8 +23,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime SlimpDev
-  introTitle: "**Uptime SlimpDev** Система онлайн мониторинга."
-  introMessage: Этот проект основан на OpenSource проекте *Upptime*. Не использует собственных серверов, развернут на базе GitHub Pages. [**Вы можете получить свою копию, бесплатно**](https://github.com/upptime/upptime)
+  introTitle: "**Uptime SlimpDev** система онлайн мониторинга."
+  introMessage: Основано на OpenSource проекте *Upptime*. Не использует собственных серверов, развернут на базе GitHub Pages. [**Вы можете получить свою копию, бесплатно**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
