@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 142,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "time": 123,
+    "timeDay": 61,
+    "timeWeek": 123,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 127,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "time": 169,
+    "timeDay": 176,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1176,
-    "timeDay": 1328,
-    "timeWeek": 1176,
-    "timeMonth": 1176,
-    "timeYear": 1176,
+    "time": 1150,
+    "timeDay": 968,
+    "timeWeek": 1150,
+    "timeMonth": 1150,
+    "timeYear": 1150,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 930,
-    "timeWeek": 742,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "time": 716,
+    "timeDay": 536,
+    "timeWeek": 716,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/webinar.synergy.ru",
     "slug": "synergy-webinar",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1607,
-    "timeDay": 1761,
-    "timeWeek": 1607,
-    "timeMonth": 1607,
-    "timeYear": 1607,
-    "dailyMinutesDown": {
-      "2022-02-02": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1563,
+    "timeDay": 1520,
+    "timeWeek": 1563,
+    "timeMonth": 1563,
+    "timeYear": 1563,
+    "dailyMinutesDown": {}
   }
 ]
