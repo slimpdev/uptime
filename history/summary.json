@@ -76,19 +76,19 @@
     "url": "https://webinar.synergy.ru",
     "icon": "https://favicons.githubusercontent.com/webinar.synergy.ru",
     "slug": "synergy-webinar",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "96.01%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 1803,
     "timeDay": 1853,
     "timeWeek": 1995,
     "timeMonth": 1803,
     "timeYear": 1803,
     "dailyMinutesDown": {
-      "2022-02-16": 57
+      "2022-02-16": 48
     }
   }
 ]
